@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**SalahVincent/SalahVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Vincent+Salah!;Web+Developer;;Always+Learning+New+Things!" />
 
 Here are some ideas to get you started:
 

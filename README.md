@@ -1,5 +1,7 @@
 ## Hi there 👋
-<img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFteGNzZ2l1Z3QycHhzbDJmOWlwc2Rqb2xxM2lweHZ1dmcxb2lybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif" />
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFteGNzZ2l1Z3QycHhzbDJmOWlwc2Rqb2xxM2lweHZ1dmcxb2lybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif" />
+</div>
 <!--
 
 Here are some ideas to get you started:

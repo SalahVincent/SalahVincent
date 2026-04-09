@@ -24,6 +24,7 @@
               <a href="https://discord.com/users/vxncxnt27_61152">Discord</a>
               <a href="https://rebaseorg.slack.com">Slack</a>
               <a href="https://cm.linkedin.com/in/vincent-salah-b3b464379">LinkedIn</a>
+              <a href="https://www.facebook.com/salah.vincent.9">facebook</a>
         </li>
       </ul>
     </td>

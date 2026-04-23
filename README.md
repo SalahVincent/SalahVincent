@@ -52,20 +52,20 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | View |
+| :--- | :--- | :--- | :--- |
+| **Weatherat** | A real-time weather dashboard fetching data from OpenWeatherMap API. Features dynamic backgrounds based on weather conditions. | `HTML5` `CSS3` `JavaScript` | [Live Demo](https://salahvincent.github.io/Weather_Web_App/) / [Repo](https://github.com/SalahVincent/Weather_Web_App) |
+
+---
+
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SalahVincent&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SalahVincent&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahVincent&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![Salah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SalahVincent&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | View |
-| :--- | :--- | :--- | :--- |
-| **Weatherat** | A real-time weather dashboard fetching data from OpenWeatherMap API. Features dynamic backgrounds based on weather conditions. | `HTML5` `CSS3` `JavaScript` | [Live Demo](https://salahvincent.github.io/Weather_Web_App/) / [Repo](https://github.com/SalahVincent/Weather_Web_App) |
 
 <!--
 

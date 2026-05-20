@@ -1,4 +1,4 @@
-# Hi there, I'm Salah Vincent👋 
+# Hi, I'm Salah Vincent👋 
 ### Aspiring Full Stack Developer & Game Dev Enthusiast
 
 <table>
@@ -22,7 +22,6 @@
               <a href="https://wa.me/+237620352660">WhatsApp</a>
               <a href="https://x.com/vincent_salah">X</a>
               <a href="https://discord.com/users/vxncxnt27_61152">Discord</a>
-              <a href="https://rebaseorg.slack.com">Slack</a>
               <a href="https://cm.linkedin.com/in/vincent-salah-b3b464379">LinkedIn</a>
         </li>
       </ul>

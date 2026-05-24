@@ -1,5 +1,5 @@
 # Hi, I'm Salah Vincent👋 
-### Aspiring Full Stack Developer & Game Dev Enthusiast
+### Aspiring Full Stack Developer & Game Development Enthusiast
 
 <table>
   <tr>

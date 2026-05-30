@@ -23,6 +23,7 @@
               <a href="https://x.com/vincent_salah">X</a>
               <a href="https://discord.com/users/vxncxnt27_61152">Discord</a>
               <a href="https://cm.linkedin.com/in/vincent-salah-b3b464379">LinkedIn</a>
+              <a href="https://www.pinterest.com/vincentsalah3/">Pinterest</a>
         </li>
       </ul>
     </td>

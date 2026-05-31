@@ -19,7 +19,6 @@
         <li>🎮 I have experience building interactive environments using <b>Unity</b>.</li>
         <li>🚀 I’m looking to collaborate on Open Source projects.</li>
         <li>📫 Reach me at: <a href="mailto:vincentsalah3@gmail.com">Email</a>
-              <a href="https://wa.me/+237620352660">WhatsApp</a>
               <a href="https://x.com/vincent_salah">X</a>
               <a href="https://discord.com/users/vxncxnt27_61152">Discord</a>
               <a href="https://cm.linkedin.com/in/vincent-salah-b3b464379">LinkedIn</a>

@@ -53,14 +53,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | View |
-| :--- | :--- | :--- | :--- |
-| **Weatherat** | A real-time weather dashboard fetching data from OpenWeatherMap API. Features dynamic backgrounds based on weather conditions. | `HTML5` `CSS3` `JavaScript` | [Live Demo](https://salahvincent.github.io/Weather_Web_App/) / [Repo](https://github.com/SalahVincent/Weather_Web_App) |
-
----
-
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SalahVincent&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SalahVincent&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false)<br/>

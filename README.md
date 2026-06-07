@@ -23,6 +23,7 @@
               <a href="https://discord.com/users/vxncxnt27_61152">Discord</a>
               <a href="https://cm.linkedin.com/in/vincent-salah-b3b464379">LinkedIn</a>
               <a href="https://www.pinterest.com/vincentsalah3/">Pinterest</a>
+              <a href="https://www.tiktok.com/@vincentsalah3?is_from_webapp=1&sender_device=pc">TikTok</a>
         </li>
       </ul>
     </td>

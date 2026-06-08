@@ -9,7 +9,7 @@
     <td width="50%" valign="top">
       <h3>⚡ About Me</h3>
       <p>
-        I am a passionate developer transitioning into the world of <b>Full Stack Development</b>. 
+        I am a developer transitioning into the world of <b>Full Stack Development</b>. 
         I enjoy building interactive web applications and exploring the logic behind game mechanics. 
         With a background in <b>C#</b> and <b>JavaScript</b>, I love bridging the gap between 
         functional backends and beautiful frontends.

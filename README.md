@@ -1,5 +1,7 @@
 # Hi there, I'm Salah Vincent🤓👋
 ### Aspiring Full Stack Developer & Game Development Enthusiast
+Based in Cameroon | Open to Remote Opportunities  
+Currently building scalable web applications and interactive environments
 
 <table>
   <tr>
